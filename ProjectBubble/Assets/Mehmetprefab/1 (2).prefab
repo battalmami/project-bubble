@@ -183,3 +183,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7416dc718f0c2944ea7b9b02302d5ce9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  rb: {fileID: 8859104387180157684}
+  speed: 2.5
+  anim: {fileID: 5329836996339166286}
+  animAD: MorBalonAnim
